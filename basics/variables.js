@@ -6,7 +6,7 @@ let accHolder;
 
 
 
-// accID = 2
+// accID = 2 
 console.log(accID);
 
 accEmail = "huhu@1233"

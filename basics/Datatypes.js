@@ -6,7 +6,7 @@
 let name = "sumanta"
 let age = 22
 let start;
-let data = true
+let data = true 
 
 
 console.log(typeof data);
